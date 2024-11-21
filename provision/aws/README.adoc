@@ -1,1 +1,0 @@
-See https://www.keycloak.org/keycloak-benchmark/kubernetes-guide/latest/prerequisite/prerequisite-rosa[Installing OpenShift on AWS] on how to use these scripts.
